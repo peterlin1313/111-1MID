@@ -17,5 +17,10 @@ namespace _111_1MID {
         protected void Page_Load(object sender, EventArgs e) {
 
         }
+
+        protected System.Void rbl_Phone_SelectedIndexChanged(System.Object sender, System.EventArgs e)
+        {
+
+        }
     }
 }
