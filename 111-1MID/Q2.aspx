@@ -10,6 +10,13 @@
 <body>
     <form id="form1" runat="server">
         <div>
+            <h1>保單電訪記錄</h1>
+            紀錄編號:
+            
+
+
+
+
         </div>
     </form>
 </body>
